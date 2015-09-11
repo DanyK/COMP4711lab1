@@ -7,9 +7,10 @@
  */
 
 /**
- * Description of Student
+ * Student class to add student's email, grades and
+ * calculate their average grade.
  *
- * @author Dany
+ * @author Dany Marquez
  */
 class Student {
     function __construct() {
